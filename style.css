@@ -2,8 +2,8 @@ body{
     background-color: palevioletred;
 }
 header {
-    background-color: #15f0cf;
-    color: rgb(201, 44, 44);
+    background-color: #5c6866;
+    color: rgb(216, 208, 208);
 }
 *{
     margin: 0;
@@ -11,8 +11,8 @@ header {
 }
 
 .cabecalho {
-    background-color: #7c943c;
-    color: rgb(169, 120, 182);
+    background-color: #ffffff;
+    color: rgb(88, 0, 112);
     display: flex;
     justify-content: space-around;
     align-items: center;
