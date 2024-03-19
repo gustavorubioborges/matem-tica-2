@@ -2,8 +2,8 @@ body{
     background-color: rgb(17, 20, 204);
 }
 header {
-    background-color: #5c6866;
-    color: rgb(216, 208, 208);
+    background-color: #d0dddb;
+    color: rgb(85, 67, 187);
 }
 *{
     margin: 0;
@@ -12,7 +12,7 @@ header {
 
 .cabecalho {
     background-color: #ffffff;
-    color: rgb(88, 0, 112);
+    color: rgb(241, 233, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
